@@ -363,7 +363,7 @@ a:hover {
   height: 31px;
   width: 31px
 }
-button:not(:disabled) {
+btn:not(:disabled) {
   outline: none
 }
 .shadow {
@@ -492,8 +492,8 @@ td:last-child {
 
 
 /* -- spacing and margins -- */
-button,
-.button {
+btn,
+.btn {
     margin-bottom: 1rem;
 }
 input,
